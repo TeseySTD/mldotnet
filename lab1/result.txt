@@ -1,0 +1,15 @@
+﻿Starting model training...
+Evaluating model quality...
+
+*************************************************
+* Model quality metrics evaluation 
+*------------------------------------------------
+* RSquared Score: 0,89
+* Root Mean Squared Error: 3,3
+Testing a single prediction...
+
+*******************************************************************
+Predicted fare: 14,6362, actual fare: 15.5
+*******************************************************************
+
+Execution completed.
